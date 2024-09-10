@@ -1,5 +1,12 @@
 puts "Enter user birthyear: "
 user_birth = gets.to_i
 
-puts "your age after 5years" , (user_birth + 5)
+
+current_year = Time.now.year
+age = (current_year - user_birth)
+print "the year is " , current_year
+
+puts " and your age after 5years" , age  + 5
+
+
 
