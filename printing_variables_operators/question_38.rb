@@ -1,0 +1,1 @@
+print product = 7*9
