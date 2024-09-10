@@ -1,0 +1,1 @@
+print quotient = 100 / 5
