@@ -1,0 +1,1 @@
+print result = 45-20
