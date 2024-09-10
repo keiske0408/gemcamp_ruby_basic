@@ -1,2 +1,4 @@
-sentence = "HELLO I AM JOHN"
-puts sentence.downcaseb
+print "number: "
+number = gets.chomp.to_i
+
+puts Math.sqrt(number)
