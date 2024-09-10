@@ -1,4 +1,4 @@
-name = "Glenn Lloyd G. Ybanez Jr."
+name = "Glenn Lloyd Ybanez Jr."
 age = 22
 
 puts name
