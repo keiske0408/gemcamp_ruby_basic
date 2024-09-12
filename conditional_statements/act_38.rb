@@ -1,4 +1,3 @@
-# Define two arrays
 array1 = [1, 2, 3, 4, 5]
 array2 = [1, 3, 3, 0, 5]
 
